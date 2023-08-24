@@ -19,7 +19,7 @@ All available options can be configured in the dictionary `MIMO_OFDM_para` of th
 The adopted pilot structure is the block pilot pattern shown below.
 Specifically, the first four OFDM symbols are set as pilots and the rest is set as the data OFDM symbols.
 <p align="center">
-    <img src='pilot_pattern/pilot_pattern.png' width="300" height="250">
+    <img src='pilot_pattern/pilot_pattern.png' width="600" height="250">
 </p>
 
 ### Power Amplifier (PA) Module
